@@ -23,10 +23,6 @@
 - The model with the highest recall score was selected as the best-performing model for heart disease prediction.
 - Recall was prioritized due to the critical nature of correctly identifying instances of heart disease.
 
-## Team Contribution
-- Each team member played a significant role in developing a robust machine learning model for heart disease prediction.
-- Contributions included data preprocessing, data visualization, literature survey, model building, hyperparameter tuning, and model evaluation.
-
 ## Conclusion
 - The project successfully demonstrated the effectiveness of machine learning algorithms in predicting heart disease.
 - By leveraging data mining techniques and diverse datasets, the project aimed to improve early detection and reduce the burden of cardiovascular diseases.
